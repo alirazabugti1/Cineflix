@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "cineflix",
+    "slug": "cineflix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.alirazabugti123.cineflix"
+    },
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "3955504a-00ab-4642-9e98-125edec265bf"
+      }
+    }
+  }
+}
